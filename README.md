@@ -6,7 +6,10 @@ yearconverter - 西暦と和暦を変換して表示するアプリ
 
 ## URL
 
-- <> - 
+- GET - /index - TOP画面
+- GET - /seireki - 西暦→和暦画面
+- GET - /wareki - 和暦→西暦画面
+- GET - /result - 結果表示画面
 
 ## SETUP
 
